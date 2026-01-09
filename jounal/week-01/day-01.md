@@ -19,4 +19,29 @@ Contoh:
 ```python
 print(a)
 a = 10
+```
+Kode di atas akan menghasilkan error karena pada saat print(a) dieksekusi,
+Python belum pernah mengenal variabel a.
 
+Hal ini menjelaskan mengapa:
+
+- Variabel harus didefinisikan sebelum digunakan
+- Urutan penulisan kode sangat berpengaruh terhadap jalannya program
+
+### 2. State Program dan Variabel
+
+State program adalah kondisi program pada suatu titik eksekusi tertentu.
+State ini mencakup:
+
+- Variabel yang sudah didefinisikan
+- Nilai variabel tersebut
+- Module yang sudah di-import
+
+Ketika Python menemukan baris:
+```python
+a = 10
+```
+Python akan:
+
+- Membuat objek bernilai 10
+- Mengaitkan nama a ke objek tersebut
