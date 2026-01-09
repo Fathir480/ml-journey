@@ -1,23 +1,27 @@
-# ML Journey
+# Perjalanan ML
 
-This repository documents my long-term journey to deeply understand
-Machine Learning and Artificial Intelligence.
+Repository ini mendokumentasikan perjalanan jangka panjang saya
+untuk memahami Machine Learning dan Artificial Intelligence
+secara mendalam dan bertahap.
 
-## Goals
-- Build strong fundamentals in mathematics, statistics, and programming
-- Understand ML algorithms from first principles
-- Develop research-oriented and engineering mindset
-- Maintain a transparent learning journal
+## Tujuan
+- Membangun fondasi yang kuat dalam matematika, statistika, dan pemrograman
+- Memahami algoritma Machine Learning dari prinsip dasar
+- Mengembangkan pola pikir riset dan rekayasa (engineering mindset)
+- Menjaga jurnal pembelajaran yang transparan dan berkelanjutan
+- Menjadikan repository ini sebagai catatan pembelajaran pribadi yang juga dapat bermanfaat bagi orang lain
 
-## Structure
-- `journal/` → daily and weekly learning reflections
-- `notebooks/` → experiments and implementations
-- `resources/` → references and notes
+## Struktur Repository
+- `journal/` → catatan pembelajaran harian dan mingguan
+- `notebooks/` → eksperimen dan implementasi kode
+- `resources/` → referensi, ringkasan, dan catatan tambahan
 
-## Philosophy
-I prioritize understanding over speed.
-This repository reflects my thinking process, mistakes, and growth.
+## Filosofi Belajar
+Saya mengutamakan pemahaman dibandingkan kecepatan.
+Repository ini mencerminkan proses berpikir saya,
+termasuk kesalahan, refleksi, dan perkembangan pemahaman dari waktu ke waktu.
+Repository ini akan terus diperbarui seiring bertambahnya pemahaman saya.
 
 ---
 
-Started: 2026
+2026
