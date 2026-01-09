@@ -126,3 +126,9 @@ menghindari error serta membangun program yang lebih terstruktur.
 
 Materi ini menjadi fondasi penting sebelum mempelajari
 struktur data, NumPy, dan Machine Learning.
+
+## Note
+- Python menjalankan kode baris demi baris
+- Variabel adalah **nama**, bukan kotak penyimpan nilai
+- Assignment mengubah **binding nama ke object**
+- `import` hanya dieksekusi satu kali per program
