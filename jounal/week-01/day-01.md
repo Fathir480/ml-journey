@@ -96,3 +96,33 @@ Pemahaman ini penting untuk materi lanjutan seperti:
 - Machine Learning pipeline
 
 ### 5. Cara Kerja ```import``` di Python
+
+Ketika Python menemukan perintah:
+``` python
+import module
+```
+Python akan:
+
+1. Mencari module tersebut
+2. Mengeksekusi seluruh isi module satu kali
+3. Menyimpan hasil eksekusinya ke dalam memory
+
+Jika module yang sama di-import kembali:
+
+- Python tidak mengeksekusi ulang
+- Python hanya menggunakan module yang sudah ada di state program
+
+Inilah sebabnya:
+
+- import bersifat efisien
+- Module dapat menyimpan state
+- Perubahan global di module bisa memengaruhi bagian lain dari program
+
+### 6. Kesimpulan 
+
+Python mengeksekusi program secara berurutan dan sangat bergantung pada state program.
+Pemahaman tentang urutan eksekusi, variabel, dan import membantu
+menghindari error serta membangun program yang lebih terstruktur.
+
+Materi ini menjadi fondasi penting sebelum mempelajari
+struktur data, NumPy, dan Machine Learning.
