@@ -45,3 +45,23 @@ Python akan:
 
 - Membuat objek bernilai 10
 - Mengaitkan nama a ke objek tersebut
+
+Jika kemudian baris berikutnya:
+```python
+a = 20
+```
+Maka Python tidak mengubah objek lama, melainkan:
+
+- Membuat objek baru bernilai 20
+- Mengaitkan kembali nama a ke objek baru tersebut
+
+### 3. Contoh Assignment dan Dampaknya
+Perhatikan contoh berikut:
+``` python
+a = 10
+b = a
+a = 20
+print(b)
+```
+Output:
+``` 10 ```
