@@ -65,3 +65,34 @@ print(b)
 ```
 Output:
 ``` 10 ```
+Hal ini terjadi karena:
+
+- ```b``` mengambil referensi ke objek yang sama dengan ```a``` pada saat bernilai ```10```
+- Ketika ```a``` diubah menjadi ```20```, ```a``` diarahkan ke objek baru
+- ```b``` tetap mengarah ke objek lama
+
+Contoh ini menunjukkan bahwa assignment di Python bukan menyalin nilai,
+melainkan mengaitkan nama ke object.
+
+### 4. Perbandingan Singkat dengan C++
+
+Walaupun hasil program Python dan C++ bisa sama,
+cara kerjanya berbeda.
+
+Di C++:
+
+- Assignment berarti menyalin nilai ke lokasi memori baru
+- Perubahan pada satu variabel tidak memengaruhi variabel lain
+
+Sedangkan di Python:
+
+- Variabel bersifat reference ke object
+- Perubahan binding nama bisa menghasilkan perilaku berbeda
+
+Pemahaman ini penting untuk materi lanjutan seperti:
+
+- NumPy
+- Tensor
+- Machine Learning pipeline
+
+### 5. Cara Kerja ```import``` di Python
