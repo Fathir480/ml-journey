@@ -102,7 +102,7 @@ student = {
 - Konfigurasi
 - Metadata model
 
-4️⃣ Kenapa mutable vs immutable itu penting di ML?
+### 4️⃣ Kenapa mutable vs immutable itu penting di ML?
 
 Contoh:
 - List → mutable → bisa berubah saat training
