@@ -8,7 +8,7 @@ Memahami apa itu data, bentuk-bentuk data di Python, dan kenapa ini krusial di M
 ### 1️⃣ Apa itu “Data” di Machine Learning?
 
 Dalam ML:
-``` Data = representasi dunia nyata dalam bentuk angka / simbol ```
+```Data = representasi dunia nyata dalam bentuk angka / simbol```
 
 Contoh dunia nyata:
 - Tinggi badan
@@ -30,9 +30,9 @@ Contoh:
 - Jumlah data
 - Umur
 - Banyak kelas
-
+Contoh:
 ``` python
 age = 20
 epochs = 100
 ```
-📌 Di ML: sering dipakai untuk parameter & indeks
+📌 ```Di ML: sering dipakai untuk parameter & indeks```
