@@ -12,8 +12,8 @@
 
 - NumPy = alat untuk mengolah data numerik besar
 - Lebih cepat dari list karena:
--- Tipe data seragam
--- Operasi vektor
+  - Tipe data seragam
+  - Operasi vektor
 
 👉 Contoh pemikiran:
 “ML itu banyak hitung-hitungan → NumPy adalah mesinnya”
