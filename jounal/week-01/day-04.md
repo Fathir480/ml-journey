@@ -166,4 +166,4 @@ Day 5 adalah **awal aljabar linear praktis**.
 ---
 
 📌 *Catatan Akhir:*
-Jika saya tidak nyaman dengan NumPy sekarang, saya akan kesulitan memahami ML ke depannya. Maka Day 4 saya jadikan hari untuk **mengubah cara berpikir**, bukan mengejar cepat.*
+Jika saya tidak nyaman dengan NumPy sekarang, saya akan kesulitan memahami ML ke depannya. Maka Day 4 saya jadikan hari untuk **mengubah cara berpikir**, bukan mengejar cepat.
