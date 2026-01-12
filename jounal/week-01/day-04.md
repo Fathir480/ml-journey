@@ -11,7 +11,6 @@
 
 ## 🧭 Posisi Day 4 dalam ML Journey
 
-<<<<<<< HEAD
 Day 4 adalah **titik transisi**:
 
 * Dari *belajar Python* → *belajar berpikir sebagai ML practitioner*
